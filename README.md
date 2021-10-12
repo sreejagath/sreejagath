@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/jagalsree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jagalsree" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jagal-r-nath-a133361ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagal-r-nath-a133361ba" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sree-jagath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14493580/sree-jagath" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14493580/sree-jagath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14493580/sree-jagath" height="30" width="40" /></a>
 <a href="https://instagram.com/jagalsree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jagalsree" height="30" width="40" /></a>
 </p>
 
