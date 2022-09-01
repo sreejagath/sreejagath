@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/jagalsree" target="blank"><img src="https://img.shields.io/twitter/follow/jagalsree?logo=twitter&style=for-the-badge" alt="jagalsree" /></a> </p>
 
-- 🔭 I’m currently working on [Melomaniac Music Player](https://github.com/sreejagath/melomaniac_music_player)
+- 🔭 I’m currently working on a private project.
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently working as a **Flutter Developer**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/sreejagath/](https://www.github.com/sreejagath/)
 
